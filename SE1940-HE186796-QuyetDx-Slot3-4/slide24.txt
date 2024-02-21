@@ -1,0 +1,15 @@
+whale: Valid
+giraffe's: Invalid (due to the apostrophe)
+camel_back: Valid
+4me2: Invalid (starts with a digit)
+_how_do_you_do: Valid
+senecac.on.ca: Invalid (contains a dot, which is not allowed in many programming languages)
+digt3: Valid
+register: Valid
+
+
+A shelf of books : shelfOfBooks;
+A cash register : cashRegister;
+A part_time student: partTimeStudentName;
+A group of programs: groupOfPrograms;
+

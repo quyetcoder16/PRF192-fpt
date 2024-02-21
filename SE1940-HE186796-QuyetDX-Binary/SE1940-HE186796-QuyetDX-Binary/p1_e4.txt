@@ -1,0 +1,18 @@
+1.Binary formats of 1-byte unsigned numbers:
+	251:1111 1011
+	163:1010 0011
+	117:0111 0101
+2.Binary formats of 2-byte unsigned numbers::
+	551:0000 0010 0010 0111
+	160:0000 0000 1010 0000
+	443:0000 0001 1011 1011
+3.Binary formats of 1-byte signed numbers (using two's complement):
+	-51:1100 1101
+	-163:0101 1101
+	-117:1000 1011
+	320:0000 0001 0100 0000
+4.Decimal values of 1-byte unsigned representations:
+	01100011 b:99
+	10001111 b:143
+	11001010 b:202
+	01001100 b:76
