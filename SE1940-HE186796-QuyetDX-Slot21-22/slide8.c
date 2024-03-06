@@ -21,6 +21,8 @@
 
 int main(){
 	char s[11] = "hello";
+	gets(s);
 	puts(s);
+	printf("%s",s);
 	return 0;
 }
